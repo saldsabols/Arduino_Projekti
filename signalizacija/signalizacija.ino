@@ -1,4 +1,3 @@
-// Mans signalizacijas projekts
 int calibrationTime = 30;        
 
 //the time when the sensor outputs a low impulse
